@@ -5,7 +5,7 @@ on:
 
 jobs:
   titta:
-   runs-on: unbuntu-latest
+   runs-on: ubuntu-latest
    steps:
    - name: Vilka filer finns här?
      run: ls -la
